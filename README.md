@@ -56,7 +56,7 @@ It will showing up like this:
 
 Please follow the format for const uri or you can modify the `api/index.js` code (line 8) `.env` credentials based on your needs. The poin is, don't put your username and password in the files that you're going to push into the Github repository.
 
-Please push the code on your own repository, before doing it you can delete the `.git` directory (hidden folder) so there are no previous commit histories and you can do the fresh push.
+Please push the code on your own repository, before doing it you can delete the `.git` directory (hidden folder) so there are no previous commit histories and you can do the fresh push. Please consider this kind of **[error](https://stackoverflow.com/questions/15240815/git-fatal-the-remote-end-hung-up-unexpectedly)** during pushing the code on your repository.
 
 ![](figs/delete_git.png)
 
